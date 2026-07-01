@@ -1,0 +1,29 @@
+{
+  "personaggi": [
+    { "id": "P01", "titolo": "Personaggio A", "prompt": "un ragazzo allegro e solare", "data": "P01.json" },
+    { "id": "P02", "titolo": "Personaggio B", "prompt": "una ragazza amica di tutti" },
+    { "id": "P03", "titolo": "Personaggio C", "prompt": "un vecchio saggio e silenzioso" }
+  ],
+  "luoghi": [
+    { "id": "L01", "titolo": "Foresta", "prompt": "in una foresta fitta e nebbiosa", "data": "L01.json" },
+    { "id": "L02", "titolo": "Città", "prompt": "tra le strade affollate di una grande città" },
+    { "id": "L03", "titolo": "Spiaggia", "prompt": "su una spiaggia deserta al tramonto" }
+  ],
+  "oggetti": [
+    { "id": "O01", "titolo": "Spada", "prompt": "con una spada antica tra le mani" },
+    { "id": "O02", "titolo": "Libro", "prompt": "che stringe un libro misterioso" },
+    { "id": "O03", "titolo": "Lanterna", "prompt": "illuminato dalla luce di una lanterna" }
+  ],
+  "inquadrature": [
+    { "id": "I01", "titolo": "Primissimo piano", "prompt": "inquadratura in primissimo piano (extreme close-up), dettaglio ravvicinato del volto" },
+    { "id": "I02", "titolo": "Primo piano", "prompt": "inquadratura in primo piano (close-up), volto e spalle del soggetto" },
+    { "id": "I03", "titolo": "Mezzo busto", "prompt": "inquadratura a mezzo busto (medium close-up), dalla testa al petto" },
+    { "id": "I04", "titolo": "Piano medio", "prompt": "inquadratura a piano medio (medium shot), soggetto dalla vita in su" },
+    { "id": "I05", "titolo": "Piano americano", "prompt": "inquadratura a piano americano (cowboy shot), soggetto dalle ginocchia in su" },
+    { "id": "I06", "titolo": "Figura intera", "prompt": "inquadratura a figura intera (full shot), soggetto interamente visibile" },
+    { "id": "I07", "titolo": "Campo lungo", "prompt": "inquadratura a campo lungo (long shot), soggetto piccolo nell'ambiente circostante" },
+    { "id": "I08", "titolo": "Panoramica", "prompt": "inquadratura panoramica (wide establishing shot), ampia veduta dell'ambiente" },
+    { "id": "I09", "titolo": "Veduta aerea", "prompt": "inquadratura dall'alto a volo d'uccello (aerial / bird's-eye view)" },
+    { "id": "I10", "titolo": "Dal basso", "prompt": "inquadratura dal basso verso l'alto (low angle shot), soggetto dominante" }
+  ]
+}
