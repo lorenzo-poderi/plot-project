@@ -1,4 +1,12 @@
 {
     "id": "P01",
-    "descr": "Personaggio 1"
+    "nome": "Personaggio 1",
+    "cognome": "Personaggio 1",
+    "soprannome": "Personaggio 1",
+    "descrizione": {
+        "principale": "Ragazzo di 14 anni, italiano, carnagione chiara, capelli castani corti leggermente spettinati, occhi castani, corporatura magra e slanciata, statura media",
+        "abbigliamento": "Semplice e poco costoso tipico degli anni '90: jeans, maglietta in tinta unita rossa con giubbino di jeans, scarpe da ginnastica bianche ed economiche e zainetto sulle spalle. Niente occhiali.",
+        "carattere": " Ragazzo solitario e nerd, appassionato di tecnologia.",
+        "aspetto": "Altezza 160 cm"
+    }
 }
